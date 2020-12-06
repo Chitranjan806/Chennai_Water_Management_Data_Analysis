@@ -1,8 +1,8 @@
-# Chennai_Water_Management_Data_Analysis
-Chennai Water Management - Water resources availability data for Chennai reservoirs
+## Chennai_Water_Management_Data_Analysis
+***Chennai Water Management - Water resources availability data for Chennai reservoirs***
 <hr>
-**Kaggle link :** https://www.kaggle.com/chitranjangupta/chennai-water-management
-The Credit for the dataset goes to - **Sudalairajkumar** https://www.kaggle.com/sudalairajkumar/chennai-water-management
+**Kaggle Notebook link ->** https://www.kaggle.com/chitranjangupta/chennai-water-management<br>
+**Dataset  Credit  to  ->** *Sudalairajkumar* Link - https://www.kaggle.com/sudalairajkumar/chennai-water-management
 <hr>
 Chennai is entirely dependent on ground water resources to meet its water needs. There are four reservoirs in the city, namely, Red Hills, Cholavaram, Poondi and Chembarambakkam, with a combined capacity of 11,057 mcft. These are the major sources of fresh water for the city.
 
